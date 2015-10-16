@@ -27,14 +27,13 @@ app.use(function(req, res, next){
     return;
 });
 
+// debug
 app.use(function(err, req, res, next){
     res.status(err.status || 500);
     log.error('Error interno (%d): %s',res.statusCode,err.message);
     res.send({ error: err.message });
     return;
 });
-
-routes = require('./routes/gymtonic')(app);
 
 // Conexión
 mongoose.connect('mongodb://localhost/gymtonic', function(err, res) {
@@ -63,8 +62,10 @@ app.all('/*', function(req, res, next) {
   }
 });
 
-
 // El servidor escucha en el puerto 3000
 server.listen(3000, function() {
   console.log("Corriendo en http://localhost:3000");
 });
+
+// rutas
+routes = require('./routes/gymtonic')(app);

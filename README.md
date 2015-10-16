@@ -3,8 +3,13 @@ GymTonic
 
 * Instacion
 $ npm install en C:\gymtonic
+
+
 * Iniciar mongo server (en consola 1)
+
 mongod --dbpath gymtonic\mongodb\data\db
+
+
 $ npm start en C:\gymtonic (en consola 2)
 
 
