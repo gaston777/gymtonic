@@ -68,4 +68,4 @@ server.listen(3000, function() {
 });
 
 // rutas
-routes = require('./routes/gymtonic')(app);
+routes = require('./routes/rutinas')(app);
