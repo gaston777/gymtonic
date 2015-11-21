@@ -1,0 +1,801 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"leido",
+				"leido_usuario"
+			],
+			[
+				"le",
+				"leido_usuario"
+			],
+			[
+				"id_",
+				"id_usuario"
+			],
+			[
+				"sho",
+				"shout_box"
+			],
+			[
+				"chat",
+				"chat_model"
+			],
+			[
+				"cust",
+				"customType"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"to",
+				"toggle_chat"
+			],
+			[
+				"id",
+				"id_usuario"
+			],
+			[
+				"post",
+				"post_url"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"nombre",
+				"nombre_cortado"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"precio",
+				"precio_anterior"
+			],
+			[
+				"id_prod",
+				"id_prod_hidden"
+			],
+			[
+				"inicio",
+				"inicio_model"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bre",
+				"page-break-after"
+			],
+			[
+				"t",
+				"text-indent"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"subcate",
+				"subcategorias"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"produc",
+				"producto_model"
+			],
+			[
+				"cargar",
+				"cargar_vista_inicio"
+			],
+			[
+				"usuario",
+				"usuario_model"
+			],
+			[
+				"productos",
+				"productos_detalles"
+			],
+			[
+				"bacground",
+				"background-color"
+			],
+			[
+				"r",
+				"repeat-x"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1255,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 2700,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "modelos/rutinas.js",
+			"settings":
+			{
+				"buffer_size": 2654,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 228.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/proyectos/nodejs/gymtonic/response/response.js",
+		"/C/proyectos/nodejs/gymtonic/views/index.php",
+		"/C/proyectos/nodejs/gymtonic/config/config.json",
+		"/C/proyectos/nodejs/gymtonic/views/header.php",
+		"/C/proyectos/nodejs/gymtonic/models/index.js",
+		"/C/proyectos/nodejs/gymtonic/routes/index.js",
+		"/C/proyectos/nodejs/gymtonic/views/index.ejs",
+		"/C/proyectos/nodejs/gymtonic/views/header.ejs",
+		"/C/proyectos/nodejs/gymtonic/public/js/todo.js",
+		"/C/proyectos/nodejs/gymtonic/routes/about.js",
+		"/C/proyectos/nodejs/gymtonic/node_modules/sequelize/node_modules/moment/moment.js",
+		"/C/proyectos/nodejs/gymtonic/server2.js",
+		"/C/proyectos/nodejs/gymtonic/models/todo.js",
+		"/C/proyectos/nodejs/gymtonic/views/footer.ejs",
+		"/C/proyectos/nodejs/gymtonic/package.json",
+		"/C/proyectos/nodejs/gymtonic/env.js",
+		"/C/proyectos/nodejs/gymtonic/node_modules/nodemon/node_modules/update-notifier/node_modules/latest-version/node_modules/package-json/node_modules/registry-url/node_modules/rc/lib/utils.js",
+		"/C/proyectos/nodejs/gymtonic/node_modules/express/node_modules/send/lib/send.js",
+		"/C/proyectos/nodejs/gymtonic/routes/user.js",
+		"/C/proyectos/nodejs/gymtonic/sqlite/gymtonic.sqlite",
+		"/C/proyectos/nodejs/gymtonic/libs/log.js",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/usuario/pagos/pagos.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/inicio/inicio/banner_cuotas.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/email/email/correcto.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/email/email/error.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/inicio/inicio/banner_envios.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/inicio/inicio/slider.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/social_widgets.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/fin_tag_header.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/header.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/controllers/Ajax.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/models/Producto_model.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/models/Venta_model.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/inicio/inicio/galeria_productos.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/models/Inicio_model.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/adm/inicio/inicio.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/css/admin/custom.css",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/css/admin/metro.css",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/css/admin/demo.css",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/tag_footer.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/css/style.css",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/footer.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/header_bottom.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/models/Chat_model.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/menu_toolbar.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/header_top.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/views/index.html",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/config/email.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/controllers/Email.php",
+		"/C/xampp/htdocs/proyectos/libercam_codeigniter/application/config/config.php",
+		"/C/Users/Tony/AppData/Roaming/Sublime Text 3/Local/Session.sublime_session"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\proyectos\\libercam_codeigniter",
+			"C:\\xampp\\htdocs\\proyectos\\chat2",
+			"C:\\xampp\\htdocs\\proyectos\\libercam_codeigniter",
+			"C:\\xampp\\htdocs\\proyectos\\libercam",
+			"C:\\xampp\\htdocs\\proyectos\\libercam-codeigniter2",
+			"C:\\xampp\\htdocs\\proyectos\\libercam-codeigniter",
+			"C:\\xampp\\htdocs\\proyectos\\libercam-codeigniter2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"savetodos",
+			"ENV",
+			": ",
+			"load->view",
+			"filter",
+			"var filter",
+			"filter",
+			"filter_class",
+			"filter_class_<?php echo $nombre_subcat; ?>",
+			"isotope_menu",
+			"btn_agregar",
+			"evt_keypress_shout",
+			"evt_ajav_refrescarChat",
+			"evt_ajav_getUsuariosChat",
+			"evt_click_open_btn",
+			"evt_keypress_shout",
+			"evt_ajax_agregarChat",
+			"evt_ajav_refrescarChat",
+			"evt_ajav_getUsuariosChat",
+			"evt_ajax_getCountChatUsuario",
+			"evt_ajax_agregarChat",
+			"evt_respuesta_chat",
+			"evt_ajax_getCountChat",
+			"evt_respuesta_chat",
+			"evt_ajax_getCountChat",
+			"evt_ajax_getCountChatUsuario",
+			"evt_respuesta_chat",
+			"evt_ajax_getCountChatUsuario",
+			"evt_ajax_getCountChat",
+			"evt_ajax_getChatLeido",
+			"evt_respuesta_chat",
+			"evt_ajax_getCountChat",
+			"evt_ajax_getCountChatUsuario",
+			"evt_ajax_getCountChat",
+			"getCountChatUsuario",
+			"get_count_chat_usuario",
+			"evt_ajax_getCountChat",
+			"evt_ajav_refrescarChat",
+			"evt_blink_chat",
+			"evt_ajax_getChatLeido",
+			"evt_ajax_getCountChatUsuario",
+			"evt_respuesta_chat",
+			"getCountChat",
+			"evt_ajax_getChatLeido",
+			"evt_respuesta_chat",
+			"mensaje_email",
+			"actualizarChatUsuario",
+			"update",
+			"evt_ajax_getCountChat",
+			"console",
+			"console.log",
+			"evt_ajax_getCountChat",
+			");",
+			"evt_ajax_getCountChat",
+			"3",
+			"widget_scroll_container",
+			"get_count_chat_usuario",
+			"get_count_chat_conversaciones",
+			"evt_ajax_getChat",
+			"getCountChat",
+			"get_count_chat_conversaciones",
+			"getCountChat",
+			"get_count_chat",
+			"getCountChat",
+			"get_count_chat_conversaciones",
+			"getChat",
+			"evt_ajax_getChat",
+			"evt_ajax_getCountChat",
+			"get_count_chat_conversaciones",
+			"get_count_chat",
+			"get_cache_chat",
+			"evt_ajax_getCountChat",
+			"get_count_chat_guardado",
+			"evt_ajax_getChat",
+			"evt_ajav_getUsuariosChat",
+			"evt_ajav_getCacheChat",
+			"get_count_chat_guardado",
+			"COUNT",
+			"COUNT(chat.id_usuario",
+			"getCountChat",
+			"get_count_chat",
+			"getCountChat",
+			"get",
+			"getCountChat",
+			"get_count_chat",
+			"click",
+			"evt_click_open_btn",
+			"interval",
+			"evt_ajax_agregarChat",
+			"evt_ajav_refrescarChat",
+			"evt_ajav_getChat",
+			"evt_ajax_getChat",
+			"evt_ajax_agregarChat",
+			"evt_ajax_getChat",
+			"evt_ajax_agregarChat",
+			"evt_ajav_refrescarChat",
+			"evt_ajax_agregarChat",
+			"html_chat",
+			"cf_tel",
+			"Contacto",
+			"evt_ajav_getUsuariosChat",
+			"evt_ajax_getChat",
+			"getChatAdmin",
+			"evt_ajav_getChat",
+			"evt_ajav_getUsuariosChat",
+			"evt_ajav_getChat",
+			"getChatAdmin",
+			"get_chat_admin",
+			"get_chat",
+			"get_chat_admin",
+			"evt_click_open_btn",
+			"evt_keypress_shout",
+			"$data->controlador",
+			"$this->session->set_flashdata",
+			"evt_keypress_shout",
+			"evt_ajav_refrescarChat",
+			"evt_ajav_getUsuariosChat",
+			"evt_keypress_shout",
+			"evt_click_open_btn",
+			"evt_keypress_shout",
+			"evt_ajax_agregarChat",
+			"evt_keypress_shout",
+			"evt_ajax_agregarChat",
+			"evt_keypress_shout",
+			"evt_click_open_btn",
+			"evt_ajax_agregarChat",
+			"evt_ajav_refrescarChat",
+			"evt_ajax_agregarChat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"url(fonts/",
+			"images",
+			"/images/admin/",
+			"/images/admin"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								281
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "modelos/rutinas.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2162,
+								2162
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "gymtonic.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\proyectos\\gymtonic\\gymtonic-xampp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
